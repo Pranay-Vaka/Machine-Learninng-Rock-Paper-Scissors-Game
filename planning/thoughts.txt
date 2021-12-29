@@ -1,0 +1,5 @@
+29/12/21
+
+Ok, in the nicest way possible... HOW TF DO YOU USE JSON ON C++. Like python had the most easiest syntax on the planet. ALL YOU HAD TO DO IS JUST 
+IMPORT JOSN AND THEN JUST USE THE FUNCTIONS LIKE A NORMAL HUMAN BEING. Then c++ just walks in with this header file and import bull. As you can tell
+I am not on the most amicable terms with c++ and am now going to cry in the corner while trying to find a module that wants to download
